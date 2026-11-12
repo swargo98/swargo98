@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rasman Mubtasim Swargo</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate systems researcher</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swargo98&label=Profile%20views&color=0e75b6&style=flat" alt="swargo98" /> </p>
 
-- 🎓 I’m pursuing an **MS in CS (Thesis) at Missouri University of Science and Technology**
+- 🎓 I’m pursuing an **Ph.D. in CS at University of California, Irvine**
 
-- 🔭 I’m currently working on **Proximal Policy Optimization**
-
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🔭 I’m currently working on **Systems for ML**
 
 - 📫 How to reach me **rmswargo98@gmail.com**
 
