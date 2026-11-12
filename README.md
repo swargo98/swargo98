@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swargo98&label=Profile%20views&color=0e75b6&style=flat" alt="swargo98" /> </p>
 
-- 🎓 I’m pursuing an **Ph.D. in CS at University of California, Irvine**
+- 🎓 I’m pursuing a **Ph.D. in CS at University of California, Irvine**
 
 - 🔭 I’m currently working on **Systems for ML**
 
